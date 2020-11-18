@@ -3,7 +3,7 @@
 The default copyright laws apply. To request commercial or academical license please contact : p.popov@skoltech.ru.
 
 If you use or refer to BiteNet please cite: 
-Igor Kozlovskii and Petr Popov, "Spatiotemporal identification of druggable binding sites using deep learning", Communications Biology, accepted.
+Igor Kozlovskii and Petr Popov, "Spatiotemporal identification of druggable binding sites using deep learning", Communications Biology, 2020.
 
 If you use training set or our source code, please also cite: 10.5281/zenodo.4043664
 
